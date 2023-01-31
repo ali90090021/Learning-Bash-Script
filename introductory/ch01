@@ -1,0 +1,3 @@
+# introductory
+# pip
+cat /etc/xxx.conf | wc
