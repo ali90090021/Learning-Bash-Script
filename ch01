@@ -1,0 +1,1 @@
+cat /etc/xxx.conf | wc
